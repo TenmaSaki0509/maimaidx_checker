@@ -4,3 +4,5 @@ desc: 查看国服舞萌机台的更新信息 # 插件简短描述
 version: v1.3.0 # 插件版本号。格式：v1.1.1 或者 v1.1
 author: 冷沫 # 作者
 repo: https://github.com/Soulter/helloworld # 插件的仓库地址
+requirements:
+  - beautifulsoup4>=4.12.0
